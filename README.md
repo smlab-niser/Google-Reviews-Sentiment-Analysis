@@ -1,2 +1,2 @@
-# Google-Reviews-Sentiment-Analysis
-Google Reviews Sentiment Analysis for ICCCNT 2020 Submission
+# MINING OPINIONS FROM APP REVIEWS - A DEEP LEARNING APPROACH”.
+ACM/IMS Transactions on Data Science Submission 2020
